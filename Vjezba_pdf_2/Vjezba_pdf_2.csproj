@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>6bf3f83d-3edd-4257-a6f1-439e5a1a86ad</ProjectGuid>
+    <ProjectGuid>{5CEC13A3-ED08-4EFE-AC59-4BEB74419211}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Vjezba_pdf_2</RootNamespace>
