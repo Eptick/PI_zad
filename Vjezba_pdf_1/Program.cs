@@ -10,10 +10,23 @@ namespace Vjezba_pdf_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int broj = Console.Read();
-            Console.WriteLine(broj);
-            
+            Console.Write("Unesite prvi broj: ");
+            int prvi = Convert.ToInt16(Console.ReadLine());
+
+            Console.Write("Unesite drugi broj: ");
+            int drugi = Convert.ToInt16(Console.ReadLine());
+
+            if (prvi > drugi)
+            {
+                int t = prvi;
+                prvi = drugi;
+                drugi = t;
+            }
+
+            for (int i = prvi; i <= drugi; i++)
+                Console.WriteLine(i);
+
+            Console.Read();            
         }
     }
 }
