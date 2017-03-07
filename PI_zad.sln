@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_6", "Vjezba_pdf_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_7", "Vjezba_pdf_7\Vjezba_pdf_7.csproj", "{9D3C0D67-8765-43FF-A863-780FE66BA867}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_8", "Vjezba_pdf_8\Vjezba_pdf_8.csproj", "{11E22BB5-C6C5-4640-AAD4-5EAD51E18B65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{9D3C0D67-8765-43FF-A863-780FE66BA867}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D3C0D67-8765-43FF-A863-780FE66BA867}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D3C0D67-8765-43FF-A863-780FE66BA867}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E22BB5-C6C5-4640-AAD4-5EAD51E18B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11E22BB5-C6C5-4640-AAD4-5EAD51E18B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11E22BB5-C6C5-4640-AAD4-5EAD51E18B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11E22BB5-C6C5-4640-AAD4-5EAD51E18B65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
