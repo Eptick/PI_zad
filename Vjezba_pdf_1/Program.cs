@@ -11,7 +11,9 @@ namespace Vjezba_pdf_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.ReadLine();
+            int broj = Console.Read();
+            Console.WriteLine(broj);
+            
         }
     }
 }
