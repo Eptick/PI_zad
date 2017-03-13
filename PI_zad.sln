@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_17", "Vjezba_pdf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_klasa_12", "Vjezba_pdf_klasa_12\Vjezba_pdf_klasa_12.csproj", "{2580689B-A909-45D3-B183-6BC16AE3D6A3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_klasa_13", "Vjezba_pdf_klasa_13\Vjezba_pdf_klasa_13.csproj", "{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_18", "Vjezba_pdf_18\Vjezba_pdf_18.csproj", "{48A3EE6D-8424-4970-98C2-96239D224B09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48A3EE6D-8424-4970-98C2-96239D224B09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48A3EE6D-8424-4970-98C2-96239D224B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48A3EE6D-8424-4970-98C2-96239D224B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48A3EE6D-8424-4970-98C2-96239D224B09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

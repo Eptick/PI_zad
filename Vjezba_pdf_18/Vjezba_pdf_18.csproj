@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A4BBDEEA-A8D7-44EF-8D33-44E85573E3D5}</ProjectGuid>
+    <ProjectGuid>{48A3EE6D-8424-4970-98C2-96239D224B09}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Vjezba_pdf_klasa_13</RootNamespace>
-    <AssemblyName>Vjezba_pdf_klasa_13</AssemblyName>
+    <RootNamespace>Vjezba_pdf_18</RootNamespace>
+    <AssemblyName>Vjezba_pdf_18</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
