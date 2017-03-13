@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_16", "Vjezba_pdf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_17", "Vjezba_pdf_17\Vjezba_pdf_17.csproj", "{7520F0F4-B100-478E-B62A-6E21B4CD4B0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vjezba_pdf_klasa_12", "Vjezba_pdf_klasa_12\Vjezba_pdf_klasa_12.csproj", "{2580689B-A909-45D3-B183-6BC16AE3D6A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{7520F0F4-B100-478E-B62A-6E21B4CD4B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7520F0F4-B100-478E-B62A-6E21B4CD4B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7520F0F4-B100-478E-B62A-6E21B4CD4B0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2580689B-A909-45D3-B183-6BC16AE3D6A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
