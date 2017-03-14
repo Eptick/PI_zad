@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 /*
  * Napravite konzolnu aplikaciju u kojoj korisnik unosi dva broja, aplikacija u
 jednom redu ispisuje sve brojeve između ta dva broja koji su dijeljivi za
-unesenim N brojevima. U drugom redu aplikacija ispisuje N brojeve
+unesenim N brojevima. U drugom redu aplikacija ispisuje N brojeve
+
  * 
  * */
 namespace Vjezba_pdf_19
